@@ -8,6 +8,7 @@
 ## Agenda
 - Introduction
 - Why?/Possible session ideas
+- Abstraction
   
 ## Introduction
 - Ice breakers
